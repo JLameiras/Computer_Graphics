@@ -1,5 +1,5 @@
 # Robot and UFO (Computer Graphics @ IST)
-## Final delivery graded 19/20
+## Final delivery grade 19/20
 
 Final Result:
 
